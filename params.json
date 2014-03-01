@@ -1,0 +1,1 @@
+{"name":"LocalSearch","tagline":"","body":"\r\nA solution for the N Queens problem using Hill Climbing. Takes N from the console and outputs some statistics and a grid made from swing that shows the search process live.\r\n","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
